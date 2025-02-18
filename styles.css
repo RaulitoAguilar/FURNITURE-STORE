@@ -1,0 +1,16 @@
+.hero {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    color: rgb(12, 12, 12);
+    text-shadow: 2px 2px 10px rgb(255, 255, 255);
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
